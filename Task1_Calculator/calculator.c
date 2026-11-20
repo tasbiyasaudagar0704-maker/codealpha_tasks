@@ -1,7 +1,6 @@
-/*
+
  * CodeAlpha C Programming Internship - Task 1
  * Basic Calculator using switch-case.
- */
 
 #include <stdio.h>
 
